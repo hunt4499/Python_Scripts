@@ -1,0 +1,6 @@
+The host is:up.
+The port 80 is :open.
+The method of scanning issyn-ack.
+There is a 86 percent chance that the host is running OpenBSD 4.3.
+
+Report generated 2021-07-07_13:31:31 GMT
